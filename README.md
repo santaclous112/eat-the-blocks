@@ -21,7 +21,6 @@ Covers:
 * [Profitable Flashloan](https://eattheblocks-pro.teachable.com/p/profitable-flashloans)
 
 ## Contacts
-<br/> <br/>
 
 ![Gmail](https://github.com/santaclous112/MonilP-Portfolio/blob/master/src/components/Icon/svg/mailto.svg)               
         santaclous112@gmail.com
